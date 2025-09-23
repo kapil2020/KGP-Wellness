@@ -1,9 +1,3 @@
-
----
-layout: default
-title: KGP-Wellness: RFID-Aided Hostel Attendance + Daily Well-Being Check-ins
----
-
 <section class="page-hero">
   <p class="hero-eyebrow">Pilot proposal · IIT Kharagpur</p>
   <h1>KGP-Wellness brings caring, real-time visibility to hostel life.</h1>
