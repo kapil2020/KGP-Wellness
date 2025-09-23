@@ -1,3 +1,8 @@
+---
+layout: default
+title: KGP-Wellness: RFID-Aided Hostel Attendance + Daily Well-Being Check-ins
+---
+
 # KGP-Wellness: RFID-Aided Hostel Attendance + Daily Well-Being Check-ins
 
 ---
@@ -183,3 +188,4 @@ graph LR
   PWA --> APIGW
   ADM --> APIGW
   CNS --> APIGW
+```
